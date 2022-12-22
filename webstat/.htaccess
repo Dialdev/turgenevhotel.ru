@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/restoran-turgenev.ru/webstat"
+AuthUserFile /var/www/turgenev/data/etc/12943554.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

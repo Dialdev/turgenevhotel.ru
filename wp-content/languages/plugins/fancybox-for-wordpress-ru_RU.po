@@ -1,0 +1,531 @@
+# Translation of Plugins - FancyBox for WordPress - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - FancyBox for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-05 12:55:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - FancyBox for WordPress - Stable (latest release)\n"
+
+#: lib/admin-tab-behaviour.php:139
+msgid "Zoom On Click"
+msgstr "Увеличение при нажатии"
+
+#: lib/admin-tab-behaviour.php:141
+msgid "Lets visitors zoom in on the image when clicking it. It will have no effect if Close on Content Click is toggled.   (default: off)"
+msgstr "Позволяет посетителям увеличивать изображение при нажатии на него. Это не будет иметь никакого эффекта, если включен переключатель «Закрыть при щелчке по содержимому». (по умолчанию: выключено)"
+
+#: lib/admin-tab-behaviour.php:232
+msgid "Disables FancyBox on mobile view (default: off)"
+msgstr "Отключить FancyBox в мобильной версии (по умолчанию: выкл)"
+
+#: lib/admin-tab-behaviour.php:230
+msgid "Disable FancyBox on mobile"
+msgstr "Отключить FancyBox на мобильной версии"
+
+#: class-fancybox-review.php:16
+msgid "Don't show again"
+msgstr "Больше не показывать"
+
+#: class-fancybox-review.php:15
+msgid "Remind me later"
+msgstr "Напомнить позже"
+
+#: class-fancybox-review.php:14
+msgid "Rate the plugin"
+msgstr "Оценить плагин"
+
+#: class-fancybox-review.php:13
+msgid "Hi there! Stoked to see you're using Fancybox for a few days now - hope you like it! And if you do, please consider rating it. It would mean the world to us.  Keep on rocking!"
+msgstr "Привет! Рад видеть, что вы используете Fancybox уже несколько дней - надеюсь, он вам нравится! А если понравится, пожалуйста, оцените его. Для нас это будет очень важно.  Продолжайте в том же духе!"
+
+#: lib/admin-tab-appearance.php:230
+msgid "Hide caption*"
+msgstr "Скрыть подписи*"
+
+#: lib/admin-tab-appearance.php:232
+msgid "Hide the caption in lightbox. In some cases both figure caption and image title are displayed in the lightbox (default: off)"
+msgstr "Скрыть подпись в лайтбоксе. В некоторых случаях в лайтбоксе отображаются и подпись к рисунку, и название изображения (по умолчанию: выключено)"
+
+#: lib/admin-tab-galleries.php:20
+msgid "Make a gallery for each gutenberg gallery block"
+msgstr "Сделайте галерею для каждого блока галереи Gutenberg"
+
+#: lib/admin-tab-behaviour.php:204
+msgid "Exclude PDF files"
+msgstr "Исключить файлы PDF"
+
+#: lib/admin-tab-behaviour.php:206
+msgid "Excludes links to files type .pdf from being displayed in the lightbox  (default: off)"
+msgstr "Исключает отображение ссылок на файлы типа .pdf в лайтбоксе (по умолчанию: выкл.)"
+
+#. Author URI of the plugin
+msgid "https://colorlib.com/wp/"
+msgstr "https://colorlib.com/wp/"
+
+#. Author of the plugin
+msgid "Colorlib"
+msgstr "Colorlib"
+
+#: lib/admin-tab-behaviour.php:165
+msgid "Woocommerce:"
+msgstr "Woocommerce:"
+
+#: lib/admin-tab-other.php:105 lib/admin-tab-other.php:113
+#: lib/admin-tab-other.php:121 lib/admin-tab-other.php:129
+#: lib/admin-tab-other.php:137 lib/admin-tab-other.php:184
+#: lib/admin-tab-galleries.php:35
+msgid "Click to start editing"
+msgstr "Нажмите, чтобы начать редактирование"
+
+#: lib/admin-tab-animations.php:33
+msgid "Animation Type"
+msgstr "Тип анимации"
+
+#: lib/admin-tab-behaviour.php:61
+msgid "Keyboard navigation;"
+msgstr "Клавиатурная навигация;"
+
+#: lib/admin-tab-behaviour.php:87
+msgid "Loop Galleries"
+msgstr "Петлевые галереи"
+
+#. Description of the plugin
+msgid "Integrates <a href=\"http://fancyapps.com/fancybox/3/\">FancyBox 3</a> into WordPress."
+msgstr "Интеграция <a href=\"http://fancyapps.com/fancybox/3/\">FancyBox 3</a> в WordPress."
+
+#: admin.php:29
+msgid "Misc."
+msgstr "Прочее."
+
+#: lib/admin-tab-appearance.php:190
+msgid "Title size (default: 14px)"
+msgstr "Размер заголовка (по умолчанию: 14px)"
+
+#: lib/admin-tab-behaviour.php:63
+msgid "Enable Keyboard Navigation (default: on)"
+msgstr "Включить навигацию с клавиатуры (по умолчанию: вкл)"
+
+#: lib/admin-tab-animations.php:56
+msgid "Speed in miliseconds of the FancyBox opening  animation (default: 500)"
+msgstr "Скорость анимации открытия FancyBox в миллисекундах (по умолчанию: 500)"
+
+#: lib/admin-tab-animations.php:62
+msgid "Animation between slides Options"
+msgstr "Параметры анимации между слайдами"
+
+#: lib/admin-tab-behaviour.php:198
+msgid "Disable on Woocommerce products.( Default : off )"
+msgstr "Отключить для товаров Woocommerce. (По умолчанию: выключено)"
+
+#: lib/admin-tab-behaviour.php:181
+msgid "Disable on Woocommerce Shop page.( Default : off )"
+msgstr "Отключить на странице магазина Woocommerce. (По умолчанию: выключено)"
+
+#: lib/admin-tab-animations.php:73
+msgid "Select Animation type for the slides(default: fade)"
+msgstr "Выберите тип анимации для слайдов (по умолчанию: fade)"
+
+#: lib/admin-tab-appearance.php:37
+msgid "Show Toolbar  (default: on)"
+msgstr "Показать панель инструментов (по умолчанию: вкл.)"
+
+#: lib/admin-tab-appearance.php:35
+msgid "Toolbar"
+msgstr "Панель инструментов"
+
+#: fancybox.php:557
+msgid "Settings"
+msgstr "Настройки"
+
+#: lib/admin-tab-appearance.php:163
+msgid "Title"
+msgstr "Название"
+
+#: admin.php:61
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: lib/admin-tab-other.php:241
+msgid "Uninstall"
+msgstr "Удаление"
+
+#: admin.php:30
+msgid "Support"
+msgstr "Поддержка"
+
+#: lib/admin-tab-appearance.php:94
+msgid "Padding"
+msgstr "Отступ"
+
+#: admin.php:25
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/fancybox-for-wordpress/"
+msgstr "https://ru.wordpress.org/plugins/fancybox-for-wordpress/"
+
+#. Plugin Name of the plugin
+msgid "FancyBox for WordPress"
+msgstr "FancyBox for WordPress"
+
+#: lib/admin-tab-appearance.php:61
+msgid "Border"
+msgstr "Рамка"
+
+#: lib/admin-tab-appearance.php:8
+msgid "Close Button"
+msgstr "Кнопка закрытия"
+
+#: lib/admin-tab-animations.php:8
+msgid "Zoom Options"
+msgstr "Параметры масштабирования"
+
+#: admin.php:28
+msgid "Galleries"
+msgstr "Галереи"
+
+#: admin.php:70
+msgid "Revert to defaults"
+msgstr "Возврат к значениям по умолчанию"
+
+#: admin.php:27
+msgid "Behaviour"
+msgstr "Поведение"
+
+#: admin.php:26
+msgid "Animations"
+msgstr "Анимации"
+
+#: admin.php:12
+msgid "Fancybox for WordPress (version %s)"
+msgstr "Fancybox for WordPress (версия %s)"
+
+#: lib/admin-tab-other.php:142 lib/admin-tab-other.php:189
+msgid "Example:"
+msgstr "Пример:"
+
+#: lib/admin-tab-galleries.php:11
+msgid "Gallery Type"
+msgstr "Тип галереи"
+
+#: lib/admin-tab-galleries.php:45
+msgid "Examples:"
+msgstr "Примеры:"
+
+#: lib/admin-tab-other.php:6
+msgid "Dimensions"
+msgstr "Размеры"
+
+#: lib/admin-tab-other.php:214
+msgid "Do not call jQuery"
+msgstr "Не вызывать jQuery"
+
+#: lib/admin-tab-other.php:246
+msgid "Remove settings"
+msgstr "Удалить настройки"
+
+#: lib/admin-tab-other.php:204
+msgid "Troubleshooting Settings"
+msgstr "Настройки устранения неполадок"
+
+#: lib/admin-tab-support.php:6
+msgid "Help with Fancybox for WordPress plugin"
+msgstr "Помощь с плагином Fancybox для WordPress"
+
+#: lib/admin-tab-support.php:1
+msgid "Help with Fancybox"
+msgstr "Помощь с Fancybox"
+
+#: lib/admin-tab-appearance.php:10
+msgid "Show Close button (default: off)"
+msgstr "Показать кнопку закрытия (по умолчанию: выкл)"
+
+#: lib/admin-tab-appearance.php:88
+msgid "HTML color of the border (default: #BBBBBB)"
+msgstr "HTML цвет рамки (по умолчанию: #BBBBBB)"
+
+#: lib/admin-tab-appearance.php:63
+msgid "Show Border (default: off)"
+msgstr "Показать рамку (по умолчанию: выкл)"
+
+#: lib/admin-tab-appearance.php:256
+msgid "Navigation Arrows"
+msgstr "Навигационные стрелки"
+
+#: lib/admin-tab-appearance.php:258
+msgid "Show the navigation arrows (default: on)"
+msgstr "Показать навигационные стрелки (по умолчанию: выкл)"
+
+#: lib/admin-tab-appearance.php:222
+msgid "Title text color (default: #333333)"
+msgstr "Цвет текста заголовка (по умолчанию: #333333)"
+
+#: lib/admin-tab-appearance.php:206
+msgid "Outside"
+msgstr "Снаружи"
+
+#: lib/admin-tab-appearance.php:199
+msgid "Inside (default)"
+msgstr "Внутри (по умолчанию)"
+
+#: lib/admin-tab-appearance.php:165
+msgid "Show the title (default: on)"
+msgstr "Показать заголовок (по умолчанию: вкл)"
+
+#: lib/admin-tab-support.php:13
+msgid "IMPORTANT:"
+msgstr "ВАЖНО:"
+
+#: lib/admin-tab-other.php:98
+msgid "Enabling this will show additional settings."
+msgstr "Включает отображение дополнительных настроек."
+
+#: lib/admin-tab-other.php:8
+msgid "Auto detect dimensions (default: on)"
+msgstr "Автоматическое распознавание размеров (по умолчанию: вкл)"
+
+#: lib/admin-tab-other.php:2
+msgid "These are additional settings for advanced users."
+msgstr "Дополнительные настройки для опытных пользователей."
+
+#: lib/admin-tab-other.php:1
+msgid "Other Settings <span style=\"color:red\">(advanced)</span>"
+msgstr "Другие настройки <span style=\"color:red\">(расширенные)</span>"
+
+#: lib/admin-tab-galleries.php:44
+msgid "See the <a href=\"http://docs.jquery.com/\" target=\"_blank\">jQuery Documentation</a> for more help."
+msgstr "Смотреть <a href=\"http://docs.jquery.com/\" target=\"_blank\">jQuery документацию</a> для дополнительной помощи."
+
+#: lib/admin-tab-galleries.php:15
+msgid "Make a gallery for all images on the page (default)"
+msgstr "Сделать галерею для всех изображений на странице (по умолчанию)"
+
+#: lib/admin-tab-galleries.php:1
+msgid "Gallery Settings <span style=\"color:red\">(advanced)</span>"
+msgstr "Настройки галереи <span style=\"color:red\">(расширенные)</span>"
+
+#: lib/admin-tab-behaviour.php:113
+msgid "Mouse Wheel Navigation"
+msgstr "Навигация с помощью колесика мыши"
+
+#: lib/admin-tab-animations.php:1
+msgid "Animation Settings <span style=\"color:green\">(basic)</span>"
+msgstr "Настройки анимации <span style=\"color:green\">(базовые)</span>"
+
+#: lib/admin-tab-other.php:248
+msgid "Remove Settings when plugin is deactivated from the \"Manage Plugins\" page. (default: off)"
+msgstr "Удалить настройки, когда плагин деактивирован на странице \"Управление плагинами\". (по умолчанию: выкл)"
+
+#: lib/admin-tab-appearance.php:1
+msgid "Appearance Settings <span style=\"color:green\">(basic)</span>"
+msgstr "Настройки внешнего вида <span style=\"color:green\">(основные)</span>"
+
+#: lib/admin-tab-behaviour.php:1
+msgid "Behavior Settings <span style=\"color:orange\">(medium)</span>"
+msgstr "Настройки поведения <span style=\"color:orange\">(средние)</span>"
+
+#: lib/admin-tab-other.php:206
+msgid "Settings in this section should only be changed if you are having problems with the plugin!"
+msgstr "Настройки в этом разделе следует изменять только в том случае, если у вас возникли проблемы с плагином!"
+
+#: lib/admin-tab-other.php:47
+msgid "Load JavaScript in Footer"
+msgstr "Загрузить JavaScript в нижний колонтитул"
+
+#: lib/admin-tab-behaviour.php:115
+msgid "Lets visitors navigate galleries with the mouse wheel  (default: off)"
+msgstr "Позволяет посетителям перемещаться по галереям с помощью колесика мыши (по умолчанию: выключено)"
+
+#: lib/admin-tab-appearance.php:148
+msgid "HTML color of the overlay (default: #666666)"
+msgstr "Цвет HTML наложения (по умолчанию: #666666)"
+
+#: lib/admin-tab-appearance.php:114
+msgid "Padding size in pixels (default: 10)"
+msgstr "Размер отступа в пикселах (по умолчанию: 10)"
+
+#: lib/admin-tab-animations.php:3
+msgid "These settings control the animations when opening and closing Fancybox, and the optional easing effects."
+msgstr "Эти настройки управляют анимацией при открытии и закрытии Fancybox, а также дополнительными эффектами замедления."
+
+#: lib/admin-tab-animations.php:84
+msgid "Speed in miliseconds of the animation when navigating thorugh gallery items (default: 300)"
+msgstr "Скорость анимации в миллисекундах при навигации по элементам галереи (по умолчанию: 300)"
+
+#: lib/admin-tab-other.php:155
+msgid "For information on the options available you can use here see <a href=\"http://fancyapps.com/fancybox/3/\">FancyBox's API & Options page</a>."
+msgstr "Для получения информации о доступных опциях, которые вы можете использовать здесь, см. <a href=\"http://fancyapps.com/fancybox/3/\">FancyBox's API & Опции страницы</a>."
+
+#: lib/admin-tab-behaviour.php:2
+msgid "The following settings should be left alone unless you know what you are doing."
+msgstr "Следующие настройки следует оставить в покое, если вы не знаете, что делаете."
+
+#: lib/admin-tab-appearance.php:223
+msgid "(Should contrast with the padding color set above)"
+msgstr "(Должен контрастировать с цветом заполнения, установленным выше)"
+
+#: lib/admin-tab-appearance.php:156
+msgid "Opacity of overlay. 0 is transparent, 1 is opaque (default: 0.3)"
+msgstr "Непрозрачность наложения. 0 это прозрачный, 1 это непрозрачный (по умолчанию: 0.3)"
+
+#: lib/admin-tab-appearance.php:122
+msgid "Add overlay (default: on)"
+msgstr "Добавить наложение (по умолчанию: включено)"
+
+#: lib/admin-tab-appearance.php:120
+msgid "Overlay Options"
+msgstr "Параметры наложения"
+
+#: lib/admin-tab-support.php:9
+msgid "Try reverting the plugin's settings to their defaults with the button below."
+msgstr "Попробуйте вернуть настройки плагина к значениям по умолчанию с помощью кнопки ниже."
+
+#: lib/admin-tab-support.php:8
+msgid "Try to localize the problem (switch your theme and deactivate plugins until you find the source of the problem). You can also try the Troubleshooting settings of this plugin if necesary."
+msgstr "Попробуйте локализовать проблему (переключите тему и отключите плагины, пока не найдете источник проблемы). Вы также можете изменить настройки этого плагина для устранения неполадок, если это необходимо."
+
+#: lib/admin-tab-animations.php:44
+msgid "Animation type when opening FancyBox. (default: fade)"
+msgstr "Тип анимации при открытии FancyBox. (по умолчанию: исчезание)"
+
+#: lib/admin-tab-other.php:76
+msgid "Callbacks"
+msgstr "Обратные вызовы"
+
+#: lib/admin-tab-galleries.php:43
+msgid "&middot; If you want to do it manually you can use something like <code>jQuery(\"a:has(img)[href$='.jpg']\")</code> or whatever works for you."
+msgstr "&middot; Если вы хотите сделать это вручную, вы можете использовать что-то вроде <code>jQuery(\"a:has(img)[href$='.jpg']\")</code> или то, что вам подходит."
+
+#: lib/admin-tab-galleries.php:39
+msgid "&middot; The custom expression has to apply <code>class=\"fancybox\"</code> to the links where you want to use FancyBox. Do not call the <code>fancybox()</code> function here, the plugin does this for you."
+msgstr "&middot; Пользовательское выражение должно применять <code>class=\"fancybox\"</code> к ссылкам, где вы хотите использовать FancyBox. Не вызывайте здесь функцию <code>fancybox()</code>, плагин сделает это за вас."
+
+#: lib/admin-tab-galleries.php:40
+msgid "&middot; The jQuery <code>addClass()</code> function is a good way to add the class to the desired links conserving any existing class."
+msgstr "&middot; Функция jQuery <code>addClass()</code> - это хороший способ добавить класс к нужным ссылкам, сохраняя любой существующий класс."
+
+#: lib/admin-tab-galleries.php:41
+msgid "&middot; You can use <code>getTitle()</code> in your expression to copy the title attribute from the <code>IMG</code> tag to the <code>A</code> tag, so that FancyBox can show captions."
+msgstr "&middot; Вы можете использовать <code> getTitle () </code> в своем выражении, чтобы скопировать атрибут title из тега <code>IMG</code> в тег <code> A </code>, чтобы FancyBox мог отображать подписи ."
+
+#: lib/admin-tab-galleries.php:42
+msgid "&middot; You can use <code>jQuery(thumbnails)</code> like in the example expression to apply FancyBox to thumbnails that link to these extensions: BMP, GIF, JPG, JPEG, PNG (both lowercase and uppercase)."
+msgstr "&middot; Вы можете использовать <code>jQuery(thumbnails)</code>, как в примере выражения, чтобы применить FancyBox к миниатюрам, которые ссылаются на эти расширения: BMP, GIF, JPG, JPEG, PNG (как в нижнем, так и в верхнем регистре)."
+
+#: lib/admin-tab-appearance.php:106
+msgid "(This should be left on #FFFFFF (white) if you want to display anything other than images, like inline or framed content)"
+msgstr "(Это значение следует оставить на #FFFFFF (белый), если вы хотите отображать что-либо, кроме изображений, например, контент в строке или в рамке)"
+
+#: lib/admin-tab-behaviour.php:29
+msgid "(You may want to leave this off if you display iframed or inline content that containts clickable elements - for example: play buttons for movies, links to other pages)"
+msgstr "(Вы можете оставить этот параметр выключенным, если вы отображаете iframed или inline контент, содержащий кликабельные элементы - например, кнопки воспроизведения фильмов, ссылки на другие страницы)"
+
+#: lib/admin-tab-other.php:159
+msgid "Additional FancyBox Calls"
+msgstr "Дополнительные вызовы FancyBox"
+
+#: lib/admin-tab-other.php:161
+msgid "Additional FancyBox Calls (default: off)"
+msgstr "Дополнительные вызовы FancyBox (по умолчанию: выключено)"
+
+#: lib/admin-tab-other.php:110
+msgid "Callback on <strong>Cancel</strong> event: Will be called after loading is canceled"
+msgstr "Обратный вызов на событие <strong>Cancel</strong>: Будет вызван после отмены загрузки"
+
+#: lib/admin-tab-other.php:126
+msgid "Callback on <strong>CleanUp</strong> event: Will be called just before closing"
+msgstr "Обратный вызов на событие <strong>CleanUp</strong>: Будет вызван непосредственно перед закрытием"
+
+#: lib/admin-tab-other.php:134
+msgid "Callback on <strong>Closed</strong> event: Will be called once FancyBox is closed"
+msgstr "Обратный вызов на событие <strong>Closed</strong>: Будет вызван, когда FancyBox будет закрыт"
+
+#: lib/admin-tab-other.php:118
+msgid "Callback on <strong>Complete</strong> event: Will be called once the content is displayed"
+msgstr "Обратный вызов на событие <strong>Завершение</strong>: Будет вызван после отображения содержимого"
+
+#: lib/admin-tab-other.php:102
+msgid "Callback on <strong>Start</strong> event: Will be called right before attempting to load the content"
+msgstr "Обратный вызов на событие <strong>Start</strong>: Будет вызван непосредственно перед попыткой загрузки содержимого"
+
+#: lib/admin-tab-behaviour.php:6
+msgid "Close on Content Click"
+msgstr "Закрыть при нажатии на содержимое"
+
+#: lib/admin-tab-behaviour.php:35
+msgid "Close on Overlay Click"
+msgstr "Закрыть при нажатии на наложение"
+
+#: lib/admin-tab-other.php:78
+msgid "Enable callbacks (default: off)"
+msgstr "Включить обратные вызовы (по умолчанию: выключено)"
+
+#: lib/admin-tab-galleries.php:2
+msgid "Here you can choose if you want the plugin to group all images into a gallery, or make a gallery for each post. You can also define you own jQuery expression if you like."
+msgstr "Здесь вы можете выбрать, хотите ли вы, чтобы плагин группировал все изображения в галерею или создавал галерею для каждого поста. Вы также можете задать собственное выражение jQuery, если хотите."
+
+#: lib/admin-tab-appearance.php:96
+msgid "HTML color of the padding (default: #FFFFFF)"
+msgstr "HTML-цвет заполнения (по умолчанию: # FFFFFF)"
+
+#: lib/admin-tab-other.php:216
+msgid "Skip jQuery call. Use this only if jQuery is being loaded twice (default: off)"
+msgstr "Пропустить вызов jQuery. Используется только в том случае, если jQuery загружается дважды (по умолчанию: off)"
+
+#: lib/admin-tab-galleries.php:30
+msgid "Use a custom expression to apply FancyBox"
+msgstr "Используйте пользовательское выражение для применения FancyBox"
+
+#: lib/admin-tab-animations.php:10
+msgid "Change content transparency during zoom animations (default: on)"
+msgstr "Изменение прозрачности содержимого во время масштабирования анимации (по умолчанию: включено)"
+
+#: lib/admin-tab-behaviour.php:8
+msgid "Close FancyBox by clicking on the image (default: off)"
+msgstr "Закройте FancyBox, щелкнув изображение (по умолчанию: выключено)"
+
+#: lib/admin-tab-behaviour.php:37
+msgid "Close FancyBox by clicking on the overlay surrounding it (default: on)"
+msgstr "Закройте FancyBox, щелкнув окружающий его оверлей (по умолчанию: on)"
+
+#: lib/admin-tab-galleries.php:38
+msgid "Custom expression guidelines:"
+msgstr "Настраиваемые рекомендации по выражениям:"
+
+#: lib/admin-tab-other.php:153
+msgid "Extra FancyBox Calls <span style=\"color:red\">(advanced)</span>"
+msgstr "Дополнительные вызовы FancyBox <span style=\"color:red\">(advanced)</span>"
+
+#: lib/admin-tab-other.php:41
+msgid "Height for iframe and swf content. Also set for inline content if <em>autoDimensions</em> is disabled (default: 340)"
+msgstr "Высота для содержимого iframe и swf. Также устанавливается для встроенного содержимого, если <em>autoDimensions</em> отключен (по умолчанию: 340)"
+
+#: lib/admin-tab-other.php:145
+msgid "Leave empty any speciic callbacks you don't need to use."
+msgstr "Оставьте пустым любые конкретные обратные вызовы, которые вам не нужны."
+
+#: lib/admin-tab-other.php:49
+msgid "Loads JavaScript at the end of the blog's HTML (experimental) (default: off)"
+msgstr "Загружает JavaScript в конце HTML-кода блога (экспериментально) (по умолчанию: выключено)"
+
+#: lib/admin-tab-appearance.php:213
+msgid "Over"
+msgstr "Над"
+
+#: lib/admin-tab-appearance.php:3
+msgid "These setting control how Fancybox looks, they let you tweak color, borders and position of elements, like the image title and closing buttons."
+msgstr "Эти настройки управляют внешним видом Fancybox, они позволяют настраивать цвет, границы и положение элементов, таких как заголовок изображения и кнопки закрытия."
+
+#: lib/admin-tab-behaviour.php:89
+msgid "This will make galleries loop, allowing you to keep pressing next/back (default: off)"
+msgstr "Это заставит галереи зациклиться, позволяя вам продолжать нажимать кнопку next/back (по умолчанию: off)"
+
+#: lib/admin-tab-other.php:36
+msgid "Width for iframe and swf content. Also set for inline content if <em>autoDimensions</em> is disabled (default: 560)"
+msgstr "Ширина для содержимого iframe и swf. Также устанавливается для встроенного содержимого, если <em>autoDimensions</em> отключено (по умолчанию: 560)"
